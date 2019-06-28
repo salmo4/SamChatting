@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978393766531",
+    "firebase_url": "https://samichatting2firebase.firebaseio.com",
+    "project_id": "samichatting2firebase",
+    "storage_bucket": "samichatting2firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978393766531:android:7f389026c01f6fc3",
+        "android_client_info": {
+          "package_name": "com.samcompany.samichatting2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978393766531-uekkqnahesloee0asqcf0ppg5dh3fi3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samcompany.samichatting2",
+            "certificate_hash": "b87d4c27b348febad0d0398e9d04bff881ef3888"
+          }
+        },
+        {
+          "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkjWyfy7AWjS5zA3eaI8ZozRlfrRAhAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978393766531-brv3068p8cll6euna8pou8ceut4aogjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
